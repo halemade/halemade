@@ -1,5 +1,5 @@
 ### Howdy!
-I'm Taylor, and I think data is interesting and beautiful. I've been working to develop products for years, but was often frustrated by the data challenges of small business. I taught myself to code to solve those problems but eventually wanted to upskill in a structured, immersive and challenging way. Was accepted to the Flatiron School in early 2021. On track to complete a Data Science certificate 10/2021!
+I'm Taylor, and I think data is interesting and beautiful. I've worked to develop products for years and have been inspired by the data challenges of small-medium size business. I taught myself to code to solve business and data problems but eventually wanted to upskill in a structured, immersive and challenging way. Was accepted to the Flatiron School in early 2021. On track to complete a Data Science certificate 10/2021!
 
 - 🌱 I’m currently diving deep into ML agorithms
 - 😄 Pronouns: she/her
