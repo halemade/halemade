@@ -1,12 +1,11 @@
-![desk view](./images/desk_view.png)
 ### Howdy!
-I'm Taylor, and I think data is interesting and beautiful.
+I'm Taylor, and I think data is interesting and beautiful. I've been working to develop products for years, but was often frustrated by the data challenges of small business. I taught myself to code to solve those problems but eventually wanted to upskill in a structured, immersive and challenging way. Was accepted to the Flatiron School in early 2021. On track to complete a Data Science certificate 10/2021!
 
 - 🌱 I’m currently diving deep into ML agorithms
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I love all things crafty. Learn more about my artistic endeavors [here](www.halemade.com) or find me on [Ravelry!](https://www.ravelry.com/people/halemade)
+- ⚡ Fun fact: I love all things crafty. Learn more about my artistic endeavors [here](https://halemade.com/) or find me on [Ravelry!](https://www.ravelry.com/people/halemade)
 
-| code | ceramics | knitting |
+| i | love | building things |
 | ------------- | ------------- | ------------- |
 | ![all labels](./images/code.png)   | ![welt](./images/ceramics.png)   | ![deck](./images/knitting.png)   |
 
