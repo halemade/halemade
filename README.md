@@ -1,5 +1,5 @@
-### Howdy!
 ![desk view](./images/desk_view.png)
+### Howdy!
 I'm Taylor, and I think data is interesting and beautiful.
 
 - 🌱 I’m currently diving deep into ML agorithms
