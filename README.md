@@ -3,7 +3,7 @@ I'm Taylor, and I think working with data is fascinating and challenging. I've w
 
 - 🌱 I’m currently diving deep into ML agorithms
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I love to make things! Learn more about my artistic endeavors on my [website](https://halemade.com/) or find me on [Ravelry!](https://www.ravelry.com/people/halemade)
+- ⚡ Fun fact: I love to make things! My first experience getting a machine to do something cool was designing + executing custom embroidery patterns on my mom's Bernina when I was ~10. Learn more about my artistic endeavors on my [website](https://halemade.com/) or find me on [Ravelry!](https://www.ravelry.com/people/halemade)
 
 
 
