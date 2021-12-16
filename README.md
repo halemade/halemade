@@ -1,7 +1,7 @@
 ### Howdy!
-I'm Taylor, and I think working with data is fascinating and challenging. I've worked to develop products for manufacturing for years and have been inspired by challenges in medium-large businesses. I taught myself to code to automate administrative-type work and the Adobe Creative Suite. I started learning about Python + data when every Google answer to what I wanted to do with an Excel macro was "use Python." Eventually I wanted to upskill in a structured, immersive and challenging way and chose to attend the Flatiron school to study Data Science
+I'm Taylor.
 
-- 🌱 I’m currently diving deep into ML agorithms + building a microcontroller plant maintenence system.
+- 🌱 I’m currently diving deep into ML algorithms + building a microcontroller plant maintenence system.
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I love to make things! My first experience getting a machine to do something cool was designing + executing custom embroidery patterns on my mom's Bernina when I was ~10. Learn more about my artistic endeavors on my [website](https://halemade.com/) or find me on [Ravelry!](https://www.ravelry.com/people/halemade)
 
