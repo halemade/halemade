@@ -1,7 +1,7 @@
 ### Howdy!
 I'm Taylor.
 
-- 🌱 I’m currently diving deep into ML algorithms + building a microcontroller plant maintenence system.
+- 🌱 Currently: building pixel-perfect Dash apps + a microcontroller plant maintenence system.
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I love to make things! My first experience getting a machine to do something cool was designing + executing custom embroidery patterns on my mom's Bernina when I was ~10. Learn more about my artistic endeavors on my [website](https://halemade.com/) or find me on [Ravelry!](https://www.ravelry.com/people/halemade)
 
