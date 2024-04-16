@@ -2,7 +2,7 @@
 I'm Taylor.
 
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I love to make things! My first experience getting a machine to do something cool was designing + executing custom embroidery patterns on my mom's Bernina when I was ~10. Learn more about my artistic endeavors on my [website](https://halemade.com/) or find me on [Ravelry!](https://www.ravelry.com/people/halemade)
+- ⚡ Fun fact: I love to make things! My first experience getting a machine to do something cool was designing + executing custom embroidery patterns on my mom's Bernina when I was ~10. 
 
 <img src="./images/printer.gif" width="400" />
 
